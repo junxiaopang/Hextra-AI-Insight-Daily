@@ -4,24 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
+#### ✨ Hey there, Hexi 2077 / justlovemaki
 
-#### 👋 何夕2077 / justlovemaki
+After a decade of coding, my fingertips might be cool, but a deep passion still burns inside.
+Then, I heard AI's thunderous call! I'm ready to challenge the heavens and give it my all.
 
-> 十载代码指尖凉，胸中块垒郁未扬。
-> 忽闻智能风雷动，誓向云天搏一场。
+#### ⚙️ My Code Philosophy
 
-#### 🚀 我的代码哲学
+Technology serves the people.
 
-> 技术为人民服务
+#### 🏆 My Signature Projects
 
-#### ✨ 代表作
+*   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    AIClient-2-API is a robust API proxy service. It wraps client-only large language model (LLM) capabilities (like Gemini CLI, Antigravity, Qwen Code, and Kiro) into a local OpenAI-compatible interface. Plus, it rocks account pool management, smart polling, automatic failover, and system prompt management.
+*   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    OpenClaw-Docker-CN-IM is an integrated Docker image for OpenClaw's Chinese IM plugins. It comes pre-installed and configured with plugins for major Chinese IM platforms like Feishu, DingTalk, QQ Bot, and WeChat Work. This bad boy lets you quickly deploy a multi-platform AI bot gateway.
+*   Want more project deets? Check out my [GitHub](https://github.com/justlovemaki) for the full rundown!
 
-*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
-*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
-*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
+#### 💡 What I'm Diving Into Now
 
-#### 🌱 当前探索
-
-对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
+I'm super into LLM applications and website SEO right now, actively diving deep into learning and hands-on practice.
